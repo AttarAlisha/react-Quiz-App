@@ -4,8 +4,6 @@ A modern and interactive **Quiz Application** built using **React.js**.
 This app allows users to customize their quiz by selecting the number of questions, category, difficulty level, and question type.  
 It provides instant feedback, scoring, and a smooth quiz experience.
 
----
-
 <h3 align="center">
           Live Project : https://ask-quiz.netlify.app/
 </h3>
@@ -38,12 +36,12 @@ It provides instant feedback, scoring, and a smooth quiz experience.
 
 ## ⚙️ Installation & Setup
 
-1. Clone the repository:
+- Clone the repository:
    ```bash
-git clone https://github.com/AttarAlisha/react-Quiz-App.git
-Navigate to the project folder:
+          git clone https://github.com/AttarAlisha/react-Quiz-App.git
 
-- Go to directory
+
+- Navigate to the project folder:
 ```
 cd react-Quiz-App
 ```
