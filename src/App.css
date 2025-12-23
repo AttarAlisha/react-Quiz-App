@@ -1,0 +1,20 @@
+/* .App {
+  background-color: #212832;
+  color: white;
+} */
+
+/* .App {
+  min-height: 100vh;
+  color: #ffffff;
+
+  /* JOYFUL, POSITIVE, NOT DULL 
+  background: linear-gradient(135deg, #667eea, #764ba2);
+
+} */
+
+.App {
+  min-height: 100vh;
+  background: linear-gradient(120deg, #7f7cff, #4facfe);
+  display: flex;
+  flex-direction: column;
+}
