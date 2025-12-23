@@ -10,7 +10,6 @@ It provides instant feedback, scoring, and a smooth quiz experience.
           Live Project : https://ask-quiz.netlify.app/
 </h3>
 <br /> 
----
 
 ## 🚀 Features
 
@@ -37,18 +36,16 @@ It provides instant feedback, scoring, and a smooth quiz experience.
 
 ---
 
----
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AttarAlisha/react-Quiz-App.git
+git clone https://github.com/AttarAlisha/react-Quiz-App.git
 Navigate to the project folder:
 
 - Go to directory
 ```
-$ cd Quiz-App
+cd react-Quiz-App
 ```
 - Install Dependency 
 ```
