@@ -5,7 +5,7 @@ This app allows users to customize their quiz by selecting the number of questio
 It provides instant feedback, scoring, and a smooth quiz experience.
 
 <h3 align="center">
-          Live Project : https://ask-quiz.netlify.app/
+          Live Project : https://ans-quiz.vercel.app/
 </h3>
 <br /> 
 
