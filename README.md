@@ -6,6 +6,12 @@ It provides instant feedback, scoring, and a smooth quiz experience.
 
 ---
 
+<h3 align="center">
+          Live Project : https://ask-quiz.netlify.app/
+</h3>
+<br /> 
+---
+
 ## 🚀 Features
 
 - 📝 Choose number of questions
@@ -40,55 +46,33 @@ It provides instant feedback, scoring, and a smooth quiz experience.
    git clone https://github.com/AttarAlisha/react-Quiz-App.git
 Navigate to the project folder:
 
-bash
-Copy code
-cd react-Quiz-App
-Install dependencies:
-
-bash
-Copy code
+- Go to directory
+```
+$ cd Quiz-App
+```
+- Install Dependency 
+```
 npm install
-Start the development server:
+```
+- Start LocalHost Server
+```
+npm run start
+```
+  <br />
 
-bash
-Copy code
-npm start
-Open in browser:
 
-arduino
-Copy code
-http://localhost:3000
-🌐 API Used
-Open Trivia Database (OpenTDB)
-https://opentdb.com/
+## 🧠 Learning Outcomes
+- React component-based architecture
 
-Provides free quiz questions across multiple categories and difficulty levels.
+- Context API for global state management
 
-🧠 Learning Outcomes
-React component-based architecture
+- Handling API calls and asynchronous data
 
-Context API for global state management
+- Conditional rendering
 
-Handling API calls and asynchronous data
+- UI/UX design for interactive applications
 
-Conditional rendering
 
-UI/UX design for interactive applications
 
-🔮 Future Enhancements
-Quiz progress bar
-
-Sound on/off toggle
-
-Dark mode
-
-User authentication
-
-Quiz history tracking
-
-👩‍💻 Author
-Alisha Attar
-Computer Science & Engineering (AI) Student
-Passionate about Web Development and UI Design
 
 
